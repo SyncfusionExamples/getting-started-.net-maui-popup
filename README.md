@@ -3,6 +3,12 @@ How to get started with .net maui popup
 
 The [.NET MAUI Popup](https://www.syncfusion.com/maui-controls/maui-popup?utm_source=github&utm_medium=listing&utm_campaign=maui-popup-github-samples) control displays an alert message with customized buttons or a desired view inside a pop-up. A quick-start project that helps you integrate the Popup control with the .NET MAUI application by adding the Syncfusion MAUI ListView package from NuGet. This project also explains on how to customize the pop-up’s appearance and functionality, including its header, body, and footer.
 
+## Project prerequisites
+Make sure that you have the compatible versions of [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) with the Dot NET MAUI workload and [.NET Core SDK 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) or later version in your machine before starting to work on this project.
+
+## How to run this application
+To run this application, you need to clone the `getting-started-with-the-dotnet-maui-popup` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `npm run serve` command.
+
 ## Features and Benefits
 
 ### Animations

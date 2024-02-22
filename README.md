@@ -1,7 +1,7 @@
 # getting-started-.net-maui-popup
 How to get started with .net maui popup
 
-The [.NET MAUI Popup](https://www.syncfusion.com/maui-controls/maui-popup?utm_source=github&utm_medium=listing&utm_campaign=maui-popup-github-samples) control displays an alert message with customized buttons or a desired view inside a pop-up. Users can completely customize the pop-up’s appearance and functionality, including its header, body, and footer.
+The [.NET MAUI Popup](https://www.syncfusion.com/maui-controls/maui-popup?utm_source=github&utm_medium=listing&utm_campaign=maui-popup-github-samples) control displays an alert message with customized buttons or a desired view inside a pop-up. A quick-start project that helps you integrate the Popup control with the .NET MAUI application by adding the Syncfusion MAUI ListView package from NuGet. This project also explains on how to customize the pop-up’s appearance and functionality, including its header, body, and footer.
 
 ## Features and Benefits
 
